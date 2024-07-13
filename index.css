@@ -1,0 +1,7 @@
+body {
+    background-color: #f0f0f0; /* Light grey background color */
+    background-image: url('index.jpeg'); /* Background image */
+    background-size: cover; /* Cover the entire page */
+    background-repeat: no-repeat; /* Do not repeat the background image */
+    background-position: center center; /* Center the background image */
+}
